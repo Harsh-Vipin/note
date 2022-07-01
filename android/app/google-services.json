@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447005106097",
+    "project_id": "hv-notes",
+    "storage_bucket": "hv-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447005106097:android:1b7ca04e1d66f25998a790",
+        "android_client_info": {
+          "package_name": "com.harsh.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447005106097-4bbngmrthrets8qdkp7fjmapj6qcq10c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrOnPoMiRWlnqiyNdROUUlI9ytVtgDZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447005106097-4bbngmrthrets8qdkp7fjmapj6qcq10c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
